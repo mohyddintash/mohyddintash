@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: ...
 
-[![Mohyddin's github stats](https://github.com/mohyddintash/github-readme-stats&show_icons=true&theme=radical)
+![Mohyddin's github stats](https://github.com/mohyddintash/github-readme-stats&show_icons=true&theme=radical)
 
 <!--
 **mohyddintash/mohyddintash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
