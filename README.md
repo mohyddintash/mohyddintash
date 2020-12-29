@@ -1,5 +1,5 @@
 <p align="left">
-  Hi there 👋 my name is Mohyddin, I'm a software engineer from Lebanon. I mostly like to work on projects that aims to make our lives better in some way or another. 
+  Hi there 👋 my name is Mohyddin, I'm a software engineer from Lebanon. I mostly like to work on projects that aim to improve our lives in some way or another. 
 </p>
 
 ## TODO
