@@ -1,6 +1,9 @@
 ### Hi there 👋 my name is Mohyddin
 
-<img src="/assets/profile.png" />
+<p align="center">
+  <img width="48%" src="/assets/profile.png" alt="Mohyddin Tash Profile Picture" />
+  <img width="48%" src="/assets/my-octocat.png" alt="My Github Octocat" />
+</p>
 
 ## TODO
 
