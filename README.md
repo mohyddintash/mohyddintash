@@ -1,5 +1,3 @@
-<img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" float="right" />
-
 <p align="left">
   Hi there 👋 my name is Mohyddin, I'm a software engineer from Lebanon. I mostly like to work on projects that aims to make our lives better in some way or another. 
 </p>
@@ -13,6 +11,9 @@
 - 📫 How to reach me:
 
 - ⚡ Fun fact: ...
+<p align="right">
+<img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" />
+</p>
 
 [![Mohyddin's github stats](https://github-readme-stats.vercel.app/api?username=mohyddintash&show_icons=true&theme=merko&count_private=true)]
 
