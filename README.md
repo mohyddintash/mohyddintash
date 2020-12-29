@@ -1,5 +1,7 @@
 ### Hi there 👋 my name is Mohyddin
 
+![mohyddintash profile pic](/assets/progile.png)
+
 ## TODO
 
 - [ ] Add banner image such as GOuna pic make sure its wide.
