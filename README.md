@@ -1,7 +1,5 @@
-<p align="left">
-  <p>
+<p align="left" v-align="top" >
   ### Hi there 👋 my name is Mohyddin  
-  </p>
   <img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" />
 </p>
 
