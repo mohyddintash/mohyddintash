@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name is Mohyddin
 
 ## TODO
+
 - [ ] Add banner image such as GOuna pic make sure its wide.
 - [ ] Add a GIF for steam project and other projects too or screenshots if possible.
 - [ ] Add my ocotcat maybe somewhere here too.
@@ -11,7 +12,6 @@
 - 📫 How to reach me:
 
 - ⚡ Fun fact: ...
-
 
 [![Mohyddin's github stats](https://github-readme-stats.vercel.app/api?username=mohyddintash&show_icons=true&theme=merko&count_private=true)]
 
