@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Mohyddin
 
-![mohyddintash profile pic](/assets/progile.png)
+<img src="/assets/profile.png" />
 
 ## TODO
 
