@@ -1,6 +1,6 @@
-<p align="left" v-align="top" >
-  ### Hi there 👋 my name is Mohyddin  
-  <img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" />
+<p align="center">
+  <span>### Hi there 👋 my name is Mohyddin  </span>
+  <span><img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" /></span>
 </p>
 
 ## TODO
