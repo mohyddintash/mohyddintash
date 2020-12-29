@@ -1,7 +1,6 @@
-### Hi there 👋 my name is Mohyddin
-
 <p align="left">
-  <img width="48%" src="/assets/my-octocat.png" alt="My Github Octocat" />
+  <img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" />
+  ### Hi there 👋 my name is Mohyddin
 </p>
 
 ## TODO
