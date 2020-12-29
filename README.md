@@ -1,17 +1,15 @@
-<p align="center">
-  <span>### Hi there 👋 my name is Mohyddin  </span>
-  <span><img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" /></span>
+<img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" float="right" />
+
+<p align="left">
+  Hi there 👋 my name is Mohyddin, I'm a software engineer from Lebanon. I mostly like to work on projects that aims to make our lives better in some way or another. 
 </p>
 
 ## TODO
-
-- [ ] Add banner image such as GOuna pic make sure its wide.
 - [ ] Add a GIF for steam project and other projects too or screenshots if possible.
-- [ ] Add my ocotcat maybe somewhere here too.
 - [ ] Add languages icons etc..
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning .
 - 📫 How to reach me:
 
 - ⚡ Fun fact: ...
