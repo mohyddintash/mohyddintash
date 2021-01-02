@@ -1,21 +1,15 @@
 <p align="left">
-  Hi there 👋 my name is Mohyddin, I'm a software engineer from Lebanon. I mostly like to work on projects that aim to improve our lives in some way or another. 
+  Hi there 👋 my name is Mohyddin, I'm a software engineer from Lebanon. I mostly like to work on projects that try to improve our lives in some way or another. Lately, I've been working with embedded systems type projects such as 3D printers, Feedback-Collection devices, and more.
+  I am always trying to improve my skills by learning and exploring new topics. Recently, I havbe been enoying working with 🐍️ Python on the backend/automation side, particularly Djnago and also learning frontend tech such as ReactJS.
 </p>
-
-## TODO
-- [ ] Add a GIF for steam project and other projects too or screenshots if possible.
-- [ ] Add languages icons etc..
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning .
 - 📫 How to reach me:
-
 - ⚡ Fun fact: ...
 <p align="right">
 <img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" />
 </p>
-
+<!--
 [![Mohyddin's github stats](https://github-readme-stats.vercel.app/api?username=mohyddintash&show_icons=true&theme=merko&count_private=true)]
+-->
 
 <!--
 **mohyddintash/mohyddintash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
