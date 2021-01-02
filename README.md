@@ -1,6 +1,9 @@
 <p align="left">
   Hi there 👋 my name is Mohyddin, I'm a software engineer from Lebanon. I mostly like to work on projects that try to improve our lives in some way or another. Lately, I've been working with embedded systems type projects such as 3D printers, Feedback-Collection devices, and more.
-  I am always trying to improve my skills by learning and exploring new topics. Recently, I havbe been enoying working with 🐍️ Python on the backend/automation side, particularly Djnago and also learning frontend tech such as ReactJS.
+  I am always trying to improve my skills by learning and exploring new topics. 
+  - Recently, I havbe been enoying working with 🐍️ Python on the backend/automation side, particularly Django 
+  - Also working on my frontend skills, currently focusing on ReactJS.
+  
 </p>
 - 📫 How to reach me:
 - ⚡ Fun fact: ...
