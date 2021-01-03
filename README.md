@@ -1,13 +1,11 @@
 <p align="left">
 Hi there 👋 my name is Mohyddin, I'm a software engineer from Lebanon. I mostly like to work on projects that try to improve our lives in some way or another. Lately, I've been working with embedded systems type projects such as 3D printers, Feedback-Collection devices, and more.
-I am always trying to improve my skills by learning and exploring new topics. 
-  
-- I've been enoying working with 🐍️ Python on the backend/automation side mainly Django.
-- I'm also working on my frontend skills, currently focusing on ReactJS.
-  
+I am always trying to improve my skills by learning and exploring new topics.   
 </p>
-- 📫 How to reach me:
-- ⚡ Fun fact: ...
+
+- 🐍️ I've been enoying working with Python on the backend/automation side (lately Django).
+- 📖️ I'm also working on my frontend skills, currently focusing on ReactJS.
+
 <p align="right">
 <img width="20%" src="/assets/my-octocat.png" alt="My Github Octocat" />
 </p>
