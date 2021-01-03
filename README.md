@@ -10,8 +10,8 @@ I am always trying to improve my skills by learning and exploring new topics.
 
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohyddin-tash-565ab738)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohyddin.tash@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Mohyddin%20Tash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohyddin-tash-565ab738)
+[![Gmail](https://img.shields.io/badge/-mohyddintash-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohyddin.tash@gmail.com)
 
 <!--
 [![Mohyddin's github stats](https://github-readme-stats.vercel.app/api?username=mohyddintash&show_icons=true&theme=merko&count_private=true)]
